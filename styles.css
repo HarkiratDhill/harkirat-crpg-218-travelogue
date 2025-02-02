@@ -19,12 +19,13 @@ img{
 article{
     display: flex;
     gap: 1rem;
-    margin-bottom: 50px;
+    margin-bottom: 15px;
 }
 
 #Temple{
     background-color: whitesmoke;
     border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
     padding: 0.5rem;
     border-left: 5px  groove gold; 
 }
@@ -32,8 +33,17 @@ article{
 #Banff{
     background-color: rgb(112, 209, 112);
     border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
     padding: 0.5rem;
     border-left: 5px groove grey;
+}
+
+#Genesis{
+    background-color: rgb(88, 169, 196);
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    padding: 0.5rem;
+    border-left: 5px groove black;
 }
 
 footer{
