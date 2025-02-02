@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+}
+
+header{ 
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img{
+    width: 35rem;
+    height: 35rem;
+}
+
+footer{
+    background-color: lightcyan;
+    text-align: center;
+}
